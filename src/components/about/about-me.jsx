@@ -5,7 +5,7 @@ const WhyChooseUs = () => {
     <>
       <section className=" container mx-auto px-10 mb-40">
         <div className="w-full my-14">
-          <iframe src="https://www.youtube.com/embed/tSeCSNEDl3g?si=FfSwnl1U0GT1JNhi" className="w-full h-[400px}"></iframe>
+          <iframe src="https://www.youtube.com/embed/tSeCSNEDl3g?si=FfSwnl1U0GT1JNhi" className="w-full h-[400px]"></iframe>
         </div>
         <div className="lg:grid-cols-[35%_65%] grid-cols-[100%] contaier-grid gap-11 grid dpdc ">
           <div className="left">
